@@ -2,3 +2,5 @@ name: fenics
 channels:
   - conda-forge
 dependencies:
+  - fenics-dolfinx 
+  - matplotlib
